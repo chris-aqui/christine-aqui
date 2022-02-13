@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @christine-aqui
+- 👋 Hi, I’m @christine-aqui. My pronous are they/them.
 - 👀 I’m interested in Web, Mobile, Gaming and VR/AR Development.
 - 🌱 I’m currently learning React, React Native.
 - 💞️ I’m looking to collaborate on open to interesting projects.
