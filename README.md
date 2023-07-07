@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @christine-aqui. My pronouns are they/them.
-- 👀 I’m interested in Web, Mobile, Gaming and VR/AR Development.
-- 🌱 I’m currently learning React, React Native and All things Backend
-- 💞️ I’m looking to collaborate on open to interesting projects.
+- 👋 Hi, I’m Chris. My pronouns are they/them.
+- :rocket: I'm a Full Stack JavaScript Developer
+- 👀 I’m interested in Web Deveopment
+- 🌱 I’m currently leveling up in **React**, and learning **React Native** and All things Backend
+- 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me Linkedin has my contact [Here](https://www.linkedin.com/in/christineaqui/)
 
 <!---
